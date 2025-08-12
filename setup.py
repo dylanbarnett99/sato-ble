@@ -14,7 +14,7 @@ setup(
     description="MQTT Broker Control and IoT Data Management Tool",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/sato/sato-ble-vision",  # Add your project URL here
+    url="https://github.com/dylanbarnett99/sato-ble",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -52,7 +52,7 @@ setup(
     },
     keywords="mqtt, iot, broker, data, management",
     project_urls={
-        "Bug Reports": "",  # Add your bug report URL
-        "Source": "",  # Add your source code URL
+        "Bug Reports": "https://github.com/dylanbarnett99/sato-ble-vision/issues",
+        "Source": "https://github.com/dylanbarnett99/sato-ble-vision",
     },
 )
