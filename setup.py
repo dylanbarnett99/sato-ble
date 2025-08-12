@@ -52,7 +52,7 @@ setup(
     },
     keywords="mqtt, iot, broker, data, management",
     project_urls={
-        "Bug Reports": "https://github.com/dylanbarnett99/sato-ble-vision/issues",
-        "Source": "https://github.com/dylanbarnett99/sato-ble-vision",
+        "Bug Reports": "https://github.com/dylanbarnett99/sato-ble/issues",
+        "Source": "https://github.com/dylanbarnett99/sato-ble",
     },
 )
