@@ -8,7 +8,7 @@ def read_readme():
 
 setup(
     name="sato-ble-vision",
-    version="1.0.0",
+    version="1.0.1",
     author="Dylan Barnett",
     author_email="dylanbarnett99@gmail.com", 
     description="MQTT Broker Control and IoT Data Management Tool",
